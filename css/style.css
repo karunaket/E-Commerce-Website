@@ -79,6 +79,7 @@
   .slider{
     width: 70vw;
     margin: 30px auto;
+    overflow: hidden;
   }
   
 
@@ -88,7 +89,7 @@
 
   .card{
     max-width: 85vw;
-    margin: auto;
+    margin: 32px auto;
   }
   
   .card h2{
